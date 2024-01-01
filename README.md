@@ -5,6 +5,17 @@
   ### The Findings will include:
   + Demographic Insights
   + Income Utilization Insights & we’ll study about their Spending habits.
+    
+## DASHBOARD OVERVIEW
+![Screenshot (183)](https://github.com/Nidhipujarii/Providing_insights_to_MitronBank/assets/107934279/b5c52152-9e9e-443f-b4f4-63c99774670f)
+
+![Screenshot (184)](https://github.com/Nidhipujarii/Providing_insights_to_MitronBank/assets/107934279/64b8ceda-5d20-422a-b933-56c9e49486d0)
+
+![Screenshot (185)](https://github.com/Nidhipujarii/Providing_insights_to_MitronBank/assets/107934279/f21ce069-53c2-4582-b5d0-96b0e5c3033f)
+
+![Screenshot (186)](https://github.com/Nidhipujarii/Providing_insights_to_MitronBank/assets/107934279/6e793516-edb5-4611-aeb7-672b5697d154)
+
+
 
 
 ## Demographic Insights: 
@@ -52,15 +63,21 @@ In terms of age groups, those between ***35-45*** years lead with ***47%*** util
 + Interestingly everyone is using ***credit card*** the most for the transactions EXCEPT for the ***21-24*** age group, where ***UPI*** emerges as the preferred payment method.
 
 ## Recommendations
-+ In launching new product, target customers from 25 - 45 age group. Because, almost 70% of customers belong to 25-45 age group who uses credit card.
-+ Remaining 30% are 45+ who don't spend much and 21-24, this age group might be still pursuing studies as a result they are dependent on parents.
-+ 70% of your customers spends on bills, groceries, health & wellness, and electronics, so you can offer rewards on this category. (Consumers Loves Cash Rewards)
++ In launching new product, target customers from ***25 - 45 age group***. Because, almost ***70%*** of customers belong to 25-45 age group who uses ***credit card***.
++ Remaining ***30%*** are ***45+*** who don't spend much and ***21-24***, this age group might be still pursuing studies as a result they are dependent on parents.
++ ***70%*** of your customers spends on ***bills***, ***groceries***, ***health & wellness***, and ***electronics***, so you can offer rewards on this category. ***(Consumers Loves Cash Rewards)***
 + Keep your customers coming back by offering:
-              > Loyalty Programs
-              > Rewards for repeat customers
-              > Excellent Customer Service
-+ Design Family-Oriented rewards because almost 80% of your customer base is married.
-+ Offer automatic monthly bill payments through your card, it will save customers time.
-+ Consumers also feel more secure when they receive mobile alerts about fraudulent or unusual transactions. In addition to alerting consumers, make sure they can actually do something by stopping the fraud transaction in real time.
-+ Since most transactions are by males, attract females by offering rewards on health and wellness, travel, and shopping, which are their spending hotspots.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+              > ***Loyalty Programs***
+              > ***Rewards for repeat customers***
+              > ***Excellent Customer Service***
++ Design Family-Oriented rewards because almost ***80%*** of your customer base is ***married***.
++ Offer ***automatic*** monthly bill payments through your card, it will save customers time.
++ Consumers also feel more secure when they receive mobile alerts about ***fraudulent*** or ***unusual transactions***. In addition to alerting consumers, make sure they can actually do something by stopping the fraud transaction in real time.
++ Since most transactions are by ***males***, attract ***females*** by offering rewards on ***health and wellness***, ***travel***, and ***shopping***, which are their ***spending hotspots***.
+
+# Tool Used:
+## Power BI
+## I also used Power Query for Data Manipulation and DAX function to answer various questions in my Analysis.
+
+
+# THANK-YOU!!!
