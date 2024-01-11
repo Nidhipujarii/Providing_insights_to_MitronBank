@@ -55,7 +55,7 @@ In terms of age groups, those between ***35-45*** years lead with ***47%*** util
 + In terms of ***age***, those between ***25-45*** prioritize spending on ***bills***, ***groceries***, and ***electronics***, while the ***21-24*** age group stands out with a penchant for ***entertainment***, ***electronics***, and ***apparel***. 
 + Spending across ***occupations*** ***mirrors*** the patterns observed in ***city-wise*** preferences.
 
-##3 Who Spends The Most? & what is Most used Payment Type?
+## 3 Who Spends The Most? & what is Most used Payment Type?
 
 + In the spending arena, ***Mumbai*** takes the lead with ***172 million***, while ***Hyderabad*** trails with ***68 million***.
 + Age-wise, the ***25-34*** group spends the most at ***203 million***, while the ***45+*** group lags at ***68 million***.
